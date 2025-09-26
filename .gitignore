@@ -1,4 +1,8 @@
 .import/
 *.import
+
 .DS_Store
 Thumbs.db
+
+editor_setting-3.tres
+.editor_settings-4.tres
